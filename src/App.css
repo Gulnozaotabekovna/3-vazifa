@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  position: relative !important;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.pricing {
+  margin: auto !important;
+  padding: 40px 20px;
+}
+.box {
+  position: relative !important;
+  width: 100%;
+}
+.box p {
+  font-size: 12px;
+  margin: 4px;
+}
+.box button {
+  margin: 10px 0px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 18px;
+}
+.box h2 span {
+  opacity: 0.8 !important;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
+header a {
+  margin: 0px 20px;
+}
+footer a {
+  display: block;
+  font-size: 12px;
+}
+footer img {
+  width: 20px;
+}
+footer p {
+  font-size: 8px;
+}
