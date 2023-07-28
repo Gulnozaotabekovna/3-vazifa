@@ -41,6 +41,17 @@ a:hover {
 header a {
   margin: 0px 20px;
 }
+header nav ul{
+  display: flex;
+  flex-direction: row !important;
+  gap: 10px;
+}
+header nav ul li{
+  list-style: none;
+  display: inline;
+  font-size: 14px;
+ 
+}
 footer a {
   display: block;
   font-size: 12px;
